@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Inflater</string>
+    <string name="delete">Delete</string>
+    <string name="how_many_views">How many views you want?</string>
+    <string name="enter_a_number_here">Enter a number here</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="add_views">Add views</string>
+    <string name="clear_all_views">Clear all views</string>
+    <string name="inflater">Inflater</string>
+    <string name="demo_view">Demo View </string>
+</resources>
